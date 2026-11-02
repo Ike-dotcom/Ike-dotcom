@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="banner.svg" alt="Ike Renson S. Landong - Full-Stack Web Developer" width="100%" />
+</p>
+
 # Hi, I'm Ike Renson S. Landong 👋
 
-**Full-Stack Web Developer** · PHP · CodeIgniter · MySQL · Javascript
+**Full-Stack Web Developer** · PHP · CodeIgniter · MySQL · JavaScript
 
 I build reliable, maintainable web applications and database-driven systems. I enjoy turning business requirements into clean, well-structured code.
 
- - Based in Bato, Camarines Sur, Philippines
- - Reach me: ikerenson70@gmail.com
+- 📍 Based in Bato, Camarines Sur, Philippines
+- 📫 Reach me: [ikerenson70@gmail.com](mailto:ikerenson70@gmail.com)
 
 ---
 
@@ -31,12 +35,9 @@ I build reliable, maintainable web applications and database-driven systems. I e
 
 ---
 
-
----
-
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ike-renson-landong-0586b9376/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ike-renson-landong-0586b9376/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikerenson70@gmail.com)
 
 *Open to freelance work and collaboration opportunities.*
