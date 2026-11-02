@@ -31,12 +31,6 @@ I build reliable, maintainable web applications and database-driven systems. I e
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
