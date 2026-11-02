@@ -6,7 +6,7 @@
 
 <br />
 
- Based in: Bato, Camarines Sur, Philippines &nbsp;•&nbsp;  Email: [ikerenson70@gmail.com](mailto:ikerenson70@gmail.com)
+   Bato, Camarines Sur, Philippines &nbsp;•&nbsp;  Email: [ikerenson70@gmail.com](mailto:ikerenson70@gmail.com)
 
 <br />
 
