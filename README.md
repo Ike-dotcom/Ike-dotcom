@@ -6,7 +6,7 @@
 
 <br />
 
-📍 Bato, Camarines Sur, Philippines &nbsp;•&nbsp; 📫 [ikerenson70@gmail.com](mailto:ikerenson70@gmail.com)
+ Based in: Bato, Camarines Sur, Philippines &nbsp;•&nbsp;  Email: [ikerenson70@gmail.com](mailto:ikerenson70@gmail.com)
 
 <br />
 
@@ -17,7 +17,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+## About Me
 
 I build reliable, maintainable web applications and database-driven systems. I enjoy turning business requirements into clean, well-structured code.
 
@@ -33,14 +33,14 @@ I build reliable, maintainable web applications and database-driven systems. I e
 
 <br />
 
-## 💼 What I Do
+##  What I Do
 
 | | |
 |---|---|
-| **🧩 Web Applications** | Building apps with **PHP** and the **CodeIgniter** MVC framework |
-| **🗄️ Databases** | Designing and optimizing **MySQL** schemas, queries, and relationships |
-| **⚙️ Core Features** | **CRUD systems**, authentication, and admin dashboards |
-| **✨ Code Quality** | Clean, organized, and maintainable code |
+| ** Web Applications** | Building apps with **PHP** and the **CodeIgniter** MVC framework |
+| ** Databases** | Designing and optimizing **MySQL** schemas, queries, and relationships |
+| ** Core Features** | **CRUD systems**, authentication, and admin dashboards |
+| ** Code Quality** | Clean, organized, and maintainable code |
 
 <br />
 
