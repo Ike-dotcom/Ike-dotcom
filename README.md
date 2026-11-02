@@ -1,71 +1,130 @@
-#Hey, I'm Ike Renson Landong!
+<!-- TOKYO NIGHT PROFILE README -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=550&lines=Aspiring+Full-Stack+Developer;PHP+%7C+CodeIgniter+%7C+MySQL;Building+projects+and+learning+every+day" alt="Typing SVG" />
+<div align="center">
 
-### 💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=IKE%20RENSON&fontSize=50&fontColor=c0caf5&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=15" width="100%" />
 
-I'm an Information Technology graduate passionate about web development and building useful applications.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Building+the+web+one+commit+at+a+time;PHP+%7C+CodeIgniter+%7C+MySQL;Always+learning.+Always+building." />
 
--  Currently improving my skills in **PHP and CodeIgniter 4**
--  Interested in **Backend and Full-Stack Development**
--  Working with **MySQL and database management**
--  Learning by building real-world projects
--  My goal is to become a professional Web Developer
+<br/>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/Ike-dotcom)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ike-dotcom&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Ike-dotcom)
 
-### 🛠️ Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## `01` // ABOUT ME
 
-**🏥 Web-Based Clinic Health Management System**
+```yaml
+name: Ike Renson Landong
+role: Aspiring Full-Stack Developer
+education: Information Technology Graduate
+location: Philippines
+currently_learning:
+  - PHP
+  - CodeIgniter 4
+  - JavaScript
+  - Backend Development
+interests:
+  - Web Development
+  - Database Management
+  - Software Engineering
+motto: "Build. Break. Learn. Repeat."
+```
 
-A web-based health management system with data analytics and RFID integration, developed as an academic capstone project.
+## `02` // TECH STACK
 
-**🌿 Florapedia**
+<div align="center">
 
-A plant information website designed to provide information about different plants.
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=php,codeigniter,mysql" />
+
+**TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+
+</div>
+
+## `03` // FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Clinic Management System
+
+Web-based health management system featuring:
+
+- RFID integration
+- Health analytics
+- Clinic management
+- MySQL database
+
+</td>
+<td width="50%">
+
+### 🌿 Florapedia
+
+Plant information website featuring:
+
+- Plant information
+- Organized content
+- Clean user interface
+- Web technologies
+
+</td>
+</tr>
+</table>
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ike-dotcom&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ike-dotcom&layout=compact&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ike-dotcom&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=565f89" />
+
+</div>
+
+## `05` // CURRENT FOCUS
+
+```javascript
+const ike = {
+    learning: ["PHP", "CodeIgniter 4", "JavaScript"],
+    building: ["Web Applications", "Personal Projects"],
+    goal: "Become a professional Full-Stack Developer"
+};
+
+while (true) {
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
-### 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ike-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ike-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### `06` // CONNECT WITH ME
 
----
+<a href="https://github.com/Ike-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b27" />
+</a>
 
-### 🤝 Connect With Me
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ike--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/Ike-dotcom)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=100&section=footer" width="100%" />
 
----
+<sub>Designed with 💜 • Tokyo Night Inspired</sub>
 
-<p align="center">
-  <i>"Learning, building, and improving one commit at a time."</i>
-</p>
+</div>
