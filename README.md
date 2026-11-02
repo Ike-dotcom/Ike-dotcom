@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ike Renson Landong!
+#Hey, I'm Ike Renson Landong!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=550&lines=Aspiring+Full-Stack+Developer;PHP+%7C+CodeIgniter+%7C+MySQL;Building+projects+and+learning+every+day" alt="Typing SVG" />
 
@@ -6,11 +6,11 @@
 
 I'm an Information Technology graduate passionate about web development and building useful applications.
 
-- 🌱 Currently improving my skills in **PHP and CodeIgniter 4**
-- 🔭 Interested in **Backend and Full-Stack Development**
-- 🗄️ Working with **MySQL and database management**
-- 🚀 Learning by building real-world projects
-- 🎯 My goal is to become a professional Web Developer
+-  Currently improving my skills in **PHP and CodeIgniter 4**
+-  Interested in **Backend and Full-Stack Development**
+-  Working with **MySQL and database management**
+-  Learning by building real-world projects
+-  My goal is to become a professional Web Developer
 
 ---
 
