@@ -1,11 +1,11 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ike Renson S. Landong 👋
 
-**Backend Web Developer** · PHP · CodeIgniter · MySQL
+**Full-Stack Web Developer** · PHP · CodeIgniter · MySQL · Javascript
 
 I build reliable, maintainable web applications and database-driven systems. I enjoy turning business requirements into clean, well-structured code.
 
 📍 Based in the Philippines
-📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+📫 Reach me: ikerenso70@gmail.com
 
 ---
 
@@ -28,16 +28,6 @@ I build reliable, maintainable web applications and database-driven systems. I e
 - Design and optimize **MySQL** databases: schemas, queries, and relationships
 - Build **CRUD systems**, authentication, and admin dashboards
 - Write clean, organized, and maintainable code
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](https://github.com/your-username/project-one) | Short description of what it does and the problem it solves | PHP, CodeIgniter, MySQL |
-| [Project Name](https://github.com/your-username/project-two) | Short description of what it does and the problem it solves | PHP, MySQL |
-| [Project Name](https://github.com/your-username/project-three) | Short description of what it does and the problem it solves | PHP, CodeIgniter |
 
 ---
 
