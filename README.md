@@ -23,7 +23,7 @@ I build reliable, maintainable web applications and database-driven systems. I e
 
 <br />
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
