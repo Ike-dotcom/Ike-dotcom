@@ -5,7 +5,7 @@
 I build reliable, maintainable web applications and database-driven systems. I enjoy turning business requirements into clean, well-structured code.
 
  - Based in Bato, Camarines Sur, Philippines
- - Reach me: ikerenso70@gmail.com
+ - Reach me: ikerenson70@gmail.com
 
 ---
 
