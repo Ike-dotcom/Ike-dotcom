@@ -27,7 +27,7 @@ I build reliable, maintainable web applications and database-driven systems. I e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,codeigniter,mysql,js,html,css,git,github&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,git,github&perline=8" alt="Tech stack" />
 
 </div>
 
